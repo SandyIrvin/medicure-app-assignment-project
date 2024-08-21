@@ -1,4 +1,4 @@
-## Certification Project – Medicure
+## Certification Project – Medicure-app
 
 
 ### Project Overview
